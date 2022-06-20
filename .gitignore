@@ -1,6 +1,9 @@
+.vscode/
+build/
 *.o
 *.d
 *.out
 *.cvt
 *.exe
 *.n64
+*.z64
